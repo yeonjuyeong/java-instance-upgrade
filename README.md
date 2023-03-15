@@ -4,4 +4,4 @@
 인스턴스 - 2,3단계에서 사용
 매개변수 - 3단계에서만
 this - 3단계에서만
-## 첫번째 java nstance
+## 첫번째 java instance
