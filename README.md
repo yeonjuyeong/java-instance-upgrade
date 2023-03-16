@@ -74,7 +74,8 @@ public class Sungil21110_Test13 {
 
 }
 ```
-첫번째 코드에서 좀더 간결하게 바꾸고 인스턴스를 사용한 버전이다. println으로 뽑아낼때 Accounting을 계속써서 코드가 커보였지만
+첫번째 코드에서 좀더 간결하게 바꾸고 인스턴스를 사용한 버전이다.<br>
+println으로 뽑아낼때 Accounting을 계속써서 코드가 커보였지만<br>
 매소드에서 value0fSupply, getVAT, getTotal의 static을 없애 인스턴스를 쓰게 만들고 
 ```java
 		Accounting2 a1 = new Accounting2();
@@ -117,3 +118,7 @@ public class sungil21110_test14 {
                                                                    
 }                                                                  
 ```
+
+
+
+
